@@ -1,0 +1,286 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.0/",
+    "signature": "4ea5c2075e0706bd6a370bc56cf18586df7f0f6c"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.0": {},
+    ".NETStandard,Version=v2.0/": {
+      "win32api/1.0.0": {
+        "dependencies": {
+          "NETStandard.Library": "2.0.3",
+          "WinApi": "4.0.0",
+          "WinApi.Desktop": "4.0.0",
+          "WinApi.DxUtils": "4.0.0",
+          "WinApi.Utils": "4.0.0",
+          "WinApi.Windows.Controls": "4.0.0"
+        },
+        "runtime": {
+          "win32api.dll": {}
+        }
+      },
+      "Microsoft.NETCore.Platforms/1.1.0": {},
+      "NetCoreEx.BinaryExtensions/3.0.0": {
+        "dependencies": {
+          "NETStandard.Library": "2.0.3"
+        },
+        "runtime": {
+          "lib/netstandard1.4/NetCoreEx.BinaryExtensions.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.0.0.0"
+          }
+        }
+      },
+      "NetCoreEx.Geometry/3.0.0": {
+        "dependencies": {
+          "NETStandard.Library": "2.0.3"
+        },
+        "runtime": {
+          "lib/netstandard1.4/NetCoreEx.Geometry.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.0.0.0"
+          }
+        }
+      },
+      "NETStandard.Library/2.0.3": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "1.1.0"
+        }
+      },
+      "SharpDX/4.0.1": {
+        "dependencies": {
+          "NETStandard.Library": "2.0.3"
+        },
+        "runtime": {
+          "lib/netstandard1.1/SharpDX.dll": {
+            "assemblyVersion": "4.0.1.0",
+            "fileVersion": "4.0.1.0"
+          }
+        }
+      },
+      "SharpDX.Direct2D1/4.0.1": {
+        "dependencies": {
+          "NETStandard.Library": "2.0.3",
+          "SharpDX": "4.0.1",
+          "SharpDX.DXGI": "4.0.1"
+        },
+        "runtime": {
+          "lib/netstandard1.1/SharpDX.Direct2D1.dll": {
+            "assemblyVersion": "4.0.1.0",
+            "fileVersion": "4.0.1.0"
+          }
+        }
+      },
+      "SharpDX.Direct3D11/4.0.1": {
+        "dependencies": {
+          "NETStandard.Library": "2.0.3",
+          "SharpDX": "4.0.1",
+          "SharpDX.DXGI": "4.0.1"
+        },
+        "runtime": {
+          "lib/netstandard1.1/SharpDX.Direct3D11.dll": {
+            "assemblyVersion": "4.0.1.0",
+            "fileVersion": "4.0.1.0"
+          }
+        }
+      },
+      "SharpDX.DirectComposition/4.0.1": {
+        "dependencies": {
+          "NETStandard.Library": "2.0.3",
+          "SharpDX": "4.0.1",
+          "SharpDX.DXGI": "4.0.1",
+          "SharpDX.Direct2D1": "4.0.1"
+        },
+        "runtime": {
+          "lib/netstandard1.3/SharpDX.DirectComposition.dll": {
+            "assemblyVersion": "4.0.1.0",
+            "fileVersion": "4.0.1.0"
+          }
+        }
+      },
+      "SharpDX.DXGI/4.0.1": {
+        "dependencies": {
+          "NETStandard.Library": "2.0.3",
+          "SharpDX": "4.0.1"
+        },
+        "runtime": {
+          "lib/netstandard1.1/SharpDX.DXGI.dll": {
+            "assemblyVersion": "4.0.1.0",
+            "fileVersion": "4.0.1.0"
+          }
+        }
+      },
+      "WinApi/4.0.0": {
+        "dependencies": {
+          "NETStandard.Library": "2.0.3",
+          "NetCoreEx.BinaryExtensions": "3.0.0",
+          "NetCoreEx.Geometry": "3.0.0"
+        },
+        "runtime": {
+          "lib/netstandard1.4/WinApi.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.0.0"
+          }
+        }
+      },
+      "WinApi.Desktop/4.0.0": {
+        "dependencies": {
+          "WinApi": "4.0.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/WinApi.Desktop.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.0.0"
+          }
+        }
+      },
+      "WinApi.DxUtils/4.0.0": {
+        "dependencies": {
+          "NETStandard.Library": "2.0.3",
+          "SharpDX": "4.0.1",
+          "SharpDX.DXGI": "4.0.1",
+          "SharpDX.Direct2D1": "4.0.1",
+          "SharpDX.Direct3D11": "4.0.1",
+          "SharpDX.DirectComposition": "4.0.1",
+          "WinApi": "4.0.0"
+        },
+        "runtime": {
+          "lib/netstandard1.4/WinApi.DxUtils.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.0.0"
+          }
+        }
+      },
+      "WinApi.Utils/4.0.0": {
+        "dependencies": {
+          "NETStandard.Library": "2.0.3",
+          "WinApi": "4.0.0"
+        },
+        "runtime": {
+          "lib/netstandard1.4/WinApi.Utils.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.0.0"
+          }
+        }
+      },
+      "WinApi.Windows.Controls/4.0.0": {
+        "dependencies": {
+          "NETStandard.Library": "2.0.3",
+          "WinApi": "4.0.0"
+        },
+        "runtime": {
+          "lib/netstandard1.4/WinApi.Windows.Controls.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "win32api/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.NETCore.Platforms/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
+      "path": "microsoft.netcore.platforms/1.1.0",
+      "hashPath": "microsoft.netcore.platforms.1.1.0.nupkg.sha512"
+    },
+    "NetCoreEx.BinaryExtensions/3.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-eQlOlEwY5+Or7dtNsKkjXzpKoC6R+YgYbP+98wF6nI/JwUJlpg2ps/PUS0NBPiJIjt+CkEfkcj11eT1t3MqIWg==",
+      "path": "netcoreex.binaryextensions/3.0.0",
+      "hashPath": "netcoreex.binaryextensions.3.0.0.nupkg.sha512"
+    },
+    "NetCoreEx.Geometry/3.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ljLHSdnn5iHbIIm+smcxF2l3ngzyVrIfVGo0IPjxwgrFMV3pTochPoboA57ANTmYwB06o3lMTSS5c87CiOXTEg==",
+      "path": "netcoreex.geometry/3.0.0",
+      "hashPath": "netcoreex.geometry.3.0.0.nupkg.sha512"
+    },
+    "NETStandard.Library/2.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
+      "path": "netstandard.library/2.0.3",
+      "hashPath": "netstandard.library.2.0.3.nupkg.sha512"
+    },
+    "SharpDX/4.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-8YA1VFg1/K8Emb8FEZDobojcv1BLuppVo7CRJQEgA1V748VIMPBru0i0OnsCjLSThzTn7juOvH85qjFL9Grl1w==",
+      "path": "sharpdx/4.0.1",
+      "hashPath": "sharpdx.4.0.1.nupkg.sha512"
+    },
+    "SharpDX.Direct2D1/4.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-EDBYa9kAG+gaMB4cCH7WNpxS8WijSCejNz/SERs2P1sWEPZZdUiUIruQMjPCdW3lXxT508aYiH2UXHAaZtk00g==",
+      "path": "sharpdx.direct2d1/4.0.1",
+      "hashPath": "sharpdx.direct2d1.4.0.1.nupkg.sha512"
+    },
+    "SharpDX.Direct3D11/4.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-7xIfeAhxPhbPgSiREfFbOOwIWonUt2GHR7XZN5p2DJMWuqjl0+h1oo2/sF+SH/c6D6APjdbt0J+dYSzoV0PA/w==",
+      "path": "sharpdx.direct3d11/4.0.1",
+      "hashPath": "sharpdx.direct3d11.4.0.1.nupkg.sha512"
+    },
+    "SharpDX.DirectComposition/4.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-oDO/hXZDyO5d8ZCsyM6PgdSUS8EhKy3q6qeq0xX0b+elOYvplXywx3axL9FUFUCPD9xNq4HDVR6+5CiEY37bzg==",
+      "path": "sharpdx.directcomposition/4.0.1",
+      "hashPath": "sharpdx.directcomposition.4.0.1.nupkg.sha512"
+    },
+    "SharpDX.DXGI/4.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Av/kToUkVR1tDtIP9zmDGwCuCtyL04+PP7kes6aABzky1Y9vT03kR7mDeE83gl+E8GUmMMbVXbQ4AG2CVb66sg==",
+      "path": "sharpdx.dxgi/4.0.1",
+      "hashPath": "sharpdx.dxgi.4.0.1.nupkg.sha512"
+    },
+    "WinApi/4.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-xHdXd5/BLrVik4tHI59zVGsagJba+tE73qJpJc+YcfYdTg34I6kiggZcj1cRQwqPo9rz5kCEV2dX5t/Mte76Tg==",
+      "path": "winapi/4.0.0",
+      "hashPath": "winapi.4.0.0.nupkg.sha512"
+    },
+    "WinApi.Desktop/4.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-TMmXI8oK7vJDBU1oIP929K+1yqRQFyfFtNeklj9OTM2oiR8cwVY0C5oH9LiyMLsO7ONot7qIhdoAhSMfvLN+4w==",
+      "path": "winapi.desktop/4.0.0",
+      "hashPath": "winapi.desktop.4.0.0.nupkg.sha512"
+    },
+    "WinApi.DxUtils/4.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-PruMUb2xccr9IMfI4PLMBqXUMUkf5hyNKOgaFG9Iz30heIrJGT4+BOZ3xOQqNGDvdJZ9q0SPU+7Jmu0SmjZVKg==",
+      "path": "winapi.dxutils/4.0.0",
+      "hashPath": "winapi.dxutils.4.0.0.nupkg.sha512"
+    },
+    "WinApi.Utils/4.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-VFbPAzrR6SrWzdbKOlcXOGuwDLS10q1r7VYadkVM5DO/ufz52HN0qhhN+VOE7CmpQDm9Fr4Ae98LdF5puywp0A==",
+      "path": "winapi.utils/4.0.0",
+      "hashPath": "winapi.utils.4.0.0.nupkg.sha512"
+    },
+    "WinApi.Windows.Controls/4.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ATKt/XgMgJqL69su6l7kXRmOPs9YpeUbqEfzADSnmdeOoq4YBF8L/tIUlvL4uZ6oyUMBDX8uBmPEQmytGx0gPg==",
+      "path": "winapi.windows.controls/4.0.0",
+      "hashPath": "winapi.windows.controls.4.0.0.nupkg.sha512"
+    }
+  }
+}

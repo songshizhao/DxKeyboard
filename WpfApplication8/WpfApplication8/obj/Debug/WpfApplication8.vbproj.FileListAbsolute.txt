@@ -1,0 +1,75 @@
+C:\Users\Administrator\Desktop\跑跑卡丁车辅助开发\WpfApplication8\WpfApplication8\bin\Debug\按键显示 跑跑卡丁车.exe.config
+C:\Users\Administrator\Desktop\跑跑卡丁车辅助开发\WpfApplication8\WpfApplication8\bin\Debug\按键显示 跑跑卡丁车.exe.manifest
+C:\Users\Administrator\Desktop\跑跑卡丁车辅助开发\WpfApplication8\WpfApplication8\bin\Debug\按键显示 跑跑卡丁车.application
+C:\Users\Administrator\Desktop\跑跑卡丁车辅助开发\WpfApplication8\WpfApplication8\bin\Debug\按键显示 跑跑卡丁车.exe
+C:\Users\Administrator\Desktop\跑跑卡丁车辅助开发\WpfApplication8\WpfApplication8\bin\Debug\按键显示 跑跑卡丁车.pdb
+C:\Users\Administrator\Desktop\跑跑卡丁车辅助开发\WpfApplication8\WpfApplication8\bin\Debug\按键显示 跑跑卡丁车.xml
+C:\Users\Administrator\Desktop\跑跑卡丁车辅助开发\WpfApplication8\WpfApplication8\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Administrator\Desktop\跑跑卡丁车辅助开发\WpfApplication8\WpfApplication8\bin\Debug\NetCoreEx.BinaryExtensions.dll
+C:\Users\Administrator\Desktop\跑跑卡丁车辅助开发\WpfApplication8\WpfApplication8\bin\Debug\NetCoreEx.Geometry.dll
+C:\Users\Administrator\Desktop\跑跑卡丁车辅助开发\WpfApplication8\WpfApplication8\bin\Debug\SharpDX.DirectInput.dll
+C:\Users\Administrator\Desktop\跑跑卡丁车辅助开发\WpfApplication8\WpfApplication8\bin\Debug\SharpDX.dll
+C:\Users\Administrator\Desktop\跑跑卡丁车辅助开发\WpfApplication8\WpfApplication8\bin\Debug\SharpDX.XInput.dll
+C:\Users\Administrator\Desktop\跑跑卡丁车辅助开发\WpfApplication8\WpfApplication8\bin\Debug\System.AppContext.dll
+C:\Users\Administrator\Desktop\跑跑卡丁车辅助开发\WpfApplication8\WpfApplication8\bin\Debug\System.Console.dll
+C:\Users\Administrator\Desktop\跑跑卡丁车辅助开发\WpfApplication8\WpfApplication8\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrator\Desktop\跑跑卡丁车辅助开发\WpfApplication8\WpfApplication8\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Administrator\Desktop\跑跑卡丁车辅助开发\WpfApplication8\WpfApplication8\bin\Debug\System.IO.Compression.dll
+C:\Users\Administrator\Desktop\跑跑卡丁车辅助开发\WpfApplication8\WpfApplication8\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Administrator\Desktop\跑跑卡丁车辅助开发\WpfApplication8\WpfApplication8\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Administrator\Desktop\跑跑卡丁车辅助开发\WpfApplication8\WpfApplication8\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Administrator\Desktop\跑跑卡丁车辅助开发\WpfApplication8\WpfApplication8\bin\Debug\System.Net.Http.dll
+C:\Users\Administrator\Desktop\跑跑卡丁车辅助开发\WpfApplication8\WpfApplication8\bin\Debug\System.Net.Sockets.dll
+C:\Users\Administrator\Desktop\跑跑卡丁车辅助开发\WpfApplication8\WpfApplication8\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Administrator\Desktop\跑跑卡丁车辅助开发\WpfApplication8\WpfApplication8\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Administrator\Desktop\跑跑卡丁车辅助开发\WpfApplication8\WpfApplication8\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Administrator\Desktop\跑跑卡丁车辅助开发\WpfApplication8\WpfApplication8\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Administrator\Desktop\跑跑卡丁车辅助开发\WpfApplication8\WpfApplication8\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Administrator\Desktop\跑跑卡丁车辅助开发\WpfApplication8\WpfApplication8\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Administrator\Desktop\跑跑卡丁车辅助开发\WpfApplication8\WpfApplication8\bin\Debug\WinApi.dll
+C:\Users\Administrator\Desktop\跑跑卡丁车辅助开发\WpfApplication8\WpfApplication8\bin\Debug\SharpDX.pdb
+C:\Users\Administrator\Desktop\跑跑卡丁车辅助开发\WpfApplication8\WpfApplication8\bin\Debug\SharpDX.DirectInput.pdb
+C:\Users\Administrator\Desktop\跑跑卡丁车辅助开发\WpfApplication8\WpfApplication8\bin\Debug\SharpDX.DirectInput.xml
+C:\Users\Administrator\Desktop\跑跑卡丁车辅助开发\WpfApplication8\WpfApplication8\bin\Debug\SharpDX.XInput.pdb
+C:\Users\Administrator\Desktop\跑跑卡丁车辅助开发\WpfApplication8\WpfApplication8\bin\Debug\SharpDX.XInput.xml
+C:\Users\Administrator\Desktop\跑跑卡丁车辅助开发\WpfApplication8\WpfApplication8\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Administrator\Desktop\跑跑卡丁车辅助开发\WpfApplication8\WpfApplication8\obj\Debug\WpfApplication8.vbprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\跑跑卡丁车辅助开发\WpfApplication8\WpfApplication8\obj\Debug\MainWindow.g.vb
+C:\Users\Administrator\Desktop\跑跑卡丁车辅助开发\WpfApplication8\WpfApplication8\obj\Debug\Application.g.vb
+C:\Users\Administrator\Desktop\跑跑卡丁车辅助开发\WpfApplication8\WpfApplication8\obj\Debug\按键显示 跑跑卡丁车_MarkupCompile.cache
+C:\Users\Administrator\Desktop\跑跑卡丁车辅助开发\WpfApplication8\WpfApplication8\obj\Debug\按键显示 跑跑卡丁车_MarkupCompile.lref
+C:\Users\Administrator\Desktop\跑跑卡丁车辅助开发\WpfApplication8\WpfApplication8\obj\Debug\Application.baml
+C:\Users\Administrator\Desktop\跑跑卡丁车辅助开发\WpfApplication8\WpfApplication8\obj\Debug\Styles\SliderCheckBox.baml
+C:\Users\Administrator\Desktop\跑跑卡丁车辅助开发\WpfApplication8\WpfApplication8\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\跑跑卡丁车辅助开发\WpfApplication8\WpfApplication8\obj\Debug\按键显示 跑跑卡丁车.g.resources
+C:\Users\Administrator\Desktop\跑跑卡丁车辅助开发\WpfApplication8\WpfApplication8\obj\Debug\WpfApplication8.Resources.resources
+C:\Users\Administrator\Desktop\跑跑卡丁车辅助开发\WpfApplication8\WpfApplication8\obj\Debug\WpfApplication8.vbproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\跑跑卡丁车辅助开发\WpfApplication8\WpfApplication8\obj\Debug\WpfApplication8.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\跑跑卡丁车辅助开发\WpfApplication8\WpfApplication8\obj\Debug\按键显示 跑跑卡丁车.TrustInfo.xml
+C:\Users\Administrator\Desktop\跑跑卡丁车辅助开发\WpfApplication8\WpfApplication8\obj\Debug\按键显示 跑跑卡丁车.exe.manifest
+C:\Users\Administrator\Desktop\跑跑卡丁车辅助开发\WpfApplication8\WpfApplication8\obj\Debug\按键显示 跑跑卡丁车.application
+C:\Users\Administrator\Desktop\跑跑卡丁车辅助开发\WpfApplication8\WpfApplication8\obj\Debug\WpfApplication8.vbproj.CopyComplete
+C:\Users\Administrator\Desktop\跑跑卡丁车辅助开发\WpfApplication8\WpfApplication8\obj\Debug\按键显示 跑跑卡丁车.exe
+C:\Users\Administrator\Desktop\跑跑卡丁车辅助开发\WpfApplication8\WpfApplication8\obj\Debug\按键显示 跑跑卡丁车.xml
+C:\Users\Administrator\Desktop\跑跑卡丁车辅助开发\WpfApplication8\WpfApplication8\obj\Debug\按键显示 跑跑卡丁车.pdb
+C:\Users\Administrator\Desktop\跑跑卡丁车辅助开发\WpfApplication8\WpfApplication8\obj\Debug\Container.g.vb
+C:\Users\Administrator\Desktop\跑跑卡丁车辅助开发\WpfApplication8\WpfApplication8\obj\Debug\Container.baml
+C:\Users\Administrator\Desktop\跑跑卡丁车辅助开发\WpfApplication8\WpfApplication8\obj\Debug\WpfApplication8.Form1.resources
+C:\Users\Administrator\Desktop\跑跑卡丁车辅助开发\WpfApplication8\WpfApplication8\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Administrator\Desktop\跑跑卡丁车辅助开发\WpfApplication8\WpfApplication8\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Administrator\Desktop\跑跑卡丁车辅助开发\WpfApplication8\WpfApplication8\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Administrator\Desktop\跑跑卡丁车辅助开发\WpfApplication8\WpfApplication8\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Administrator\Desktop\跑跑卡丁车辅助开发\WpfApplication8\WpfApplication8\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Administrator\Desktop\跑跑卡丁车辅助开发\WpfApplication8\WpfApplication8\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Administrator\Desktop\跑跑卡丁车辅助开发\WpfApplication8\WpfApplication8\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Administrator\Desktop\跑跑卡丁车辅助开发\WpfApplication8\WpfApplication8\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Administrator\Desktop\跑跑卡丁车辅助开发\WpfApplication8\WpfApplication8\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Administrator\Desktop\跑跑卡丁车辅助开发\WpfApplication8\WpfApplication8\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Administrator\Desktop\跑跑卡丁车辅助开发\WpfApplication8\WpfApplication8\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Administrator\Desktop\跑跑卡丁车辅助开发\WpfApplication8\WpfApplication8\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Administrator\Desktop\跑跑卡丁车辅助开发\WpfApplication8\WpfApplication8\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Administrator\Desktop\跑跑卡丁车辅助开发\WpfApplication8\WpfApplication8\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Administrator\Desktop\跑跑卡丁车辅助开发\WpfApplication8\WpfApplication8\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Administrator\Desktop\跑跑卡丁车辅助开发\WpfApplication8\WpfApplication8\obj\Debug\GeneratedInternalTypeHelper.g.vb
+C:\Users\Administrator\Desktop\跑跑卡丁车辅助开发\WpfApplication8\WpfApplication8\obj\Debug\UserControl1.g.vb
+C:\Users\Administrator\Desktop\跑跑卡丁车辅助开发\WpfApplication8\WpfApplication8\obj\Debug\UserControl1.baml
