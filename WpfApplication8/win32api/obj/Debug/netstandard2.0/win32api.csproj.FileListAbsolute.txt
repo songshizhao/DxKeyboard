@@ -7,3 +7,12 @@ C:\Users\Administrator\Desktop\跑跑卡丁车辅助开发\WpfApplication8\win32
 C:\Users\Administrator\Desktop\跑跑卡丁车辅助开发\WpfApplication8\win32api\obj\Debug\netstandard2.0\win32api.AssemblyInfo.cs
 C:\Users\Administrator\Desktop\跑跑卡丁车辅助开发\WpfApplication8\win32api\obj\Debug\netstandard2.0\win32api.dll
 C:\Users\Administrator\Desktop\跑跑卡丁车辅助开发\WpfApplication8\win32api\obj\Debug\netstandard2.0\win32api.pdb
+C:\Users\Administrator\source\repos\DxKeyboard\WpfApplication8\win32api\bin\Debug\netstandard2.0\win32api.deps.json
+C:\Users\Administrator\source\repos\DxKeyboard\WpfApplication8\win32api\bin\Debug\netstandard2.0\win32api.dll
+C:\Users\Administrator\source\repos\DxKeyboard\WpfApplication8\win32api\bin\Debug\netstandard2.0\win32api.pdb
+C:\Users\Administrator\source\repos\DxKeyboard\WpfApplication8\win32api\obj\Debug\netstandard2.0\win32api.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\DxKeyboard\WpfApplication8\win32api\obj\Debug\netstandard2.0\win32api.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\DxKeyboard\WpfApplication8\win32api\obj\Debug\netstandard2.0\win32api.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\DxKeyboard\WpfApplication8\win32api\obj\Debug\netstandard2.0\win32api.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\DxKeyboard\WpfApplication8\win32api\obj\Debug\netstandard2.0\win32api.dll
+C:\Users\Administrator\source\repos\DxKeyboard\WpfApplication8\win32api\obj\Debug\netstandard2.0\win32api.pdb

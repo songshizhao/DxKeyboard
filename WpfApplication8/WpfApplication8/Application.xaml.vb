@@ -7,12 +7,12 @@
     Sub New()
 
 
-#If REleASE Then
-
+#If Not DEBUG Then
+        
+        
 #End If
-
-
         AddHandler Startup, CheckAdministrator()
+
     End Sub
 
 

@@ -64,6 +64,16 @@ UserControl1
 InitializeComponent
 </summary>
 </member>
+<member name="T:WpfApplication8.挂机">
+<summary>
+挂机
+</summary>
+</member>
+<member name="M:WpfApplication8.挂机.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
 <member name="T:WpfApplication8.Application">
 <summary>
 Application

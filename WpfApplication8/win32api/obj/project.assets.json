@@ -543,11 +543,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\跑跑卡丁车辅助开发\\WpfApplication8\\win32api\\win32api.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\DxKeyboard\\WpfApplication8\\win32api\\win32api.csproj",
       "projectName": "win32api",
-      "projectPath": "C:\\Users\\Administrator\\Desktop\\跑跑卡丁车辅助开发\\WpfApplication8\\win32api\\win32api.csproj",
+      "projectPath": "C:\\Users\\Administrator\\source\\repos\\DxKeyboard\\WpfApplication8\\win32api\\win32api.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\Desktop\\跑跑卡丁车辅助开发\\WpfApplication8\\win32api\\obj\\",
+      "outputPath": "C:\\Users\\Administrator\\source\\repos\\DxKeyboard\\WpfApplication8\\win32api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

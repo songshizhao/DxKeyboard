@@ -11,5 +11,5 @@
 Option Strict Off
 Option Explicit On
 
-<Assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("styles/ico.png")> 
+<Assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("styles/favicon.ico")> 
 

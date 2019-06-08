@@ -70,6 +70,7 @@ namespace win32api
 			var result = User32Methods.GetWindowRect(Hwnd, out Rectangle win_rectangle);
 
 			return win_rectangle;
+			
 		}
 		
 
