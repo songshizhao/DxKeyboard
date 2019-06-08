@@ -4,13 +4,11 @@
     xmlns:local="clr-namespace:WpfApplication8" 
     StartupUri="MainWindow.xaml">
     <Application.Resources>
-
         <ResourceDictionary>
             <ResourceDictionary.MergedDictionaries>
                 <ResourceDictionary Source="Styles/SliderCheckBox.xaml"/>
                 
             </ResourceDictionary.MergedDictionaries>
         </ResourceDictionary>
-
     </Application.Resources>
 </Application>

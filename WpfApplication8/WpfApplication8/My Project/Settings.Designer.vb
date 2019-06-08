@@ -7,12 +7,8 @@
 '     重新生成代码，这些更改将会丢失。
 ' </auto-generated>
 '------------------------------------------------------------------------------
-
 Option Strict On
 Option Explicit On
-
-
-
 <Global.System.Runtime.CompilerServices.CompilerGeneratedAttribute(),  _
  Global.System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator", "15.9.0.0"),  _
  Global.System.ComponentModel.EditorBrowsableAttribute(Global.System.ComponentModel.EditorBrowsableState.Advanced)>  _
@@ -24,9 +20,7 @@ Partial Friend NotInheritable Class MySettings
 #Region "My.Settings 自动保存功能"
 #If _MyType = "WindowsForms" Then
     Private Shared addedHandler As Boolean
-
     Private Shared addedHandlerLockObject As New Object
-
     <Global.System.Diagnostics.DebuggerNonUserCodeAttribute(), Global.System.ComponentModel.EditorBrowsableAttribute(Global.System.ComponentModel.EditorBrowsableState.Advanced)> _
     Private Shared Sub AutoSaveSettings(sender As Global.System.Object, e As Global.System.EventArgs)
         If My.Application.SaveMySettingsOnExit Then
@@ -53,7 +47,6 @@ Partial Friend NotInheritable Class MySettings
         End Get
     End Property
 End Class
-
 Namespace My
     
     <Global.Microsoft.VisualBasic.HideModuleNameAttribute(),  _

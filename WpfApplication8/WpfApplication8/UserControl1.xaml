@@ -11,8 +11,6 @@
                 <ColumnDefinition Width="65" />
                 <ColumnDefinition Width="65" />
             </Grid.ColumnDefinitions>
-
-
             <Border Name="Border_up" CornerRadius="12,12,12,12" Height="50" Width="50"  Background="black" HorizontalAlignment="Left" VerticalAlignment="Top" Grid.Column="2" Margin="7.5">
                 <TextBlock x:Name="tup" HorizontalAlignment="Left" Height="30" Margin="19,10,0,0" TextWrapping="Wrap" Text="↑" VerticalAlignment="Top" Width="21" Foreground="white" FontSize="25" />
             </Border>
@@ -25,18 +23,13 @@
             <Border Name="Border_right" CornerRadius="12,12,12,12" Height="50" Width="50" Margin="7.5" Background="black" HorizontalAlignment="Left" VerticalAlignment="Top" Grid.Column="3" Grid.Row="1" >
                 <TextBlock x:Name="tright" HorizontalAlignment="Left" Height="30" Margin="14,10,0,0" TextWrapping="Wrap" Text="→" VerticalAlignment="Top" Width="28" Foreground="white" FontSize="25" />
             </Border>
-
             <Border Name="Border_ctrl" CornerRadius="12,12,12,12" Height="50" Width="50" Margin="7.5" Background="black" HorizontalAlignment="Left" VerticalAlignment="Top" Grid.Row="1">
                 <TextBlock x:Name="tctrl" HorizontalAlignment="Center" Height="30" Margin="6,10,0,0" TextWrapping="Wrap" Text="Ctrl" VerticalAlignment="Center" Width="30" Foreground="white" FontSize="15" />
             </Border>
             <Border Name="Border_shift" CornerRadius="12,12,12,12" Height="50" Width="101" Margin="7.5" Background="black" HorizontalAlignment="Left" VerticalAlignment="Top" Grid.RowSpan="2">
                 <TextBlock x:Name="tshift" HorizontalAlignment="Center" Height="28" Margin="10,12,14,10" TextWrapping="Wrap" Text="Shift" VerticalAlignment="Center" Width="77" Foreground="white" FontSize="15" />
             </Border>
-
-
-
             <!--<CheckBox x:Name="checkBox" Content="开" HorizontalAlignment="Left" Height="20" Margin="370,104,-12,0" VerticalAlignment="Top" Width="50" Style="{DynamicResource SliderCheckBox}" Focusable="False" />-->
         </Grid>
     </Border>
-
 </UserControl>

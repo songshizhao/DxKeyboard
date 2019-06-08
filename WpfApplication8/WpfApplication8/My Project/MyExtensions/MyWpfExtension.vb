@@ -1,5 +1,4 @@
 ﻿#If _MyType <> "Empty" Then
-
 Namespace My
     ''' <summary>
     ''' 用于定义“我的 WPF 命名空间”中的可用属性的模块
@@ -48,7 +47,6 @@ Namespace My
                 Return s_Log.GetInstance()
             End Get
         End Property
-
         ''' <summary>
         ''' 返回项目中定义的 Windows 集合。
         ''' </summary>

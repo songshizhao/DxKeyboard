@@ -8,8 +8,6 @@
         Title="挂机" Height="150" Width="200">
     <Grid>
         <Button Name="Command1" Content="测试" Click="Command1_Click" ToolTipService.ToolTip="测试1次能否自动领取" HorizontalAlignment="Left" Margin="35,20,0,0" VerticalAlignment="Top" Width="115" Height="25" />
-
         <Button Name="Command2" Content="开始挂机" Click="Command2_Click"  ToolTipService.ToolTip="测试1次能否自动领取" HorizontalAlignment="Left" Margin="35,60,0,0" VerticalAlignment="Top" Width="115" Height="25" />
-
     </Grid>
 </Window>

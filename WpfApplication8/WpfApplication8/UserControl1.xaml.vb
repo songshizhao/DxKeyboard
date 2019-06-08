@@ -6,35 +6,21 @@ Imports System.Windows.Interop
 Imports System.Windows.Threading
 Imports SharpDX.DirectInput
 Imports WinApi.User32
-
-
-
-
-
-
-
 Public Class UserControl1
     Implements INotifyPropertyChanged
-
     Public Shared thisUI As UIElement
-
-
     Public Event PropertyChanged As PropertyChangedEventHandler Implements INotifyPropertyChanged.PropertyChanged
     Private Sub NotifyPropertyChanged(<CallerMemberName()> Optional ByVal propertyName As String = Nothing)
         RaiseEvent PropertyChanged(Me, New PropertyChangedEventArgs(propertyName))
     End Sub
-
     Public directInput As DirectInput = New DirectInput()
     Public MyKeyboard As Keyboard
-
     Dim key_pressd_color As New SolidColorBrush(Colors.HotPink)
     Dim key_released_color As New SolidColorBrush(Colors.Black)
     Dim text_pressed_color As New SolidColorBrush(Colors.Black)
     Dim text_released_color As New SolidColorBrush(Colors.White)
-
     Public Shared Mytimer As DispatcherTimer = New DispatcherTimer()
     'Public Shared SendInputTimer As DispatcherTimer = New DispatcherTimer()
-
     Private Sub Window_Loaded(sender As Object, e As RoutedEventArgs) Handles Me.Loaded
         thisUI = Me
         '隐藏任务栏图标
@@ -50,18 +36,12 @@ Public Class UserControl1
         Mytimer.Interval = New TimeSpan(0, 0, 0, 0, 12)
         AddHandler Mytimer.Tick, AddressOf TimerTick
         Mytimer.Start()
-
-
-
-
         'Me.WindowState = WindowState.Normal
     End Sub
-
     Dim ut As TimeSpan = New TimeSpan(0, 0, 0)
     Private Sub TimerTick(sender As Object, e As EventArgs)
         '检测按键
         Check_key()
-
         '时间函数
         'ut = ut.Add(Mytimer.Interval)
         'If ut.TotalSeconds >= 1 Then
@@ -72,18 +52,10 @@ Public Class UserControl1
         '    Input.InitKeyboardInput(m_inputs(0), 203, False, False, 0)
         '    User32Helpers.SendInput(m_inputs)
         'End If
-
     End Sub
-
-
-
     Sub Check_key()
-
         Dim curKeyboardState = MyKeyboard.GetCurrentState()
         '键盘检测
-
-
-
         '上方向键
         If curKeyboardState.IsPressed(Key.Up) Then
             Border_up.Background = key_pressd_color
@@ -100,27 +72,22 @@ Public Class UserControl1
             Border_left.Background = key_released_color
             tleft.Foreground = text_released_color
         End If
-
         '下方向键
         If curKeyboardState.IsPressed(Key.Down) Then
             Border_down.Background = key_pressd_color
             tdown.Foreground = text_pressed_color
-
         Else
             Border_down.Background = key_released_color
             tdown.Foreground = text_released_color
         End If
-
         '右方向键
         If curKeyboardState.IsPressed(Key.Right) Then
             Border_right.Background = key_pressd_color
             tright.Foreground = text_pressed_color
-
         Else
             Border_right.Background = key_released_color
             tright.Foreground = text_released_color
         End If
-
         'shieft键
         If curKeyboardState.IsPressed(Key.LeftShift) Or curKeyboardState.IsPressed(Key.RightShift) Then
             Border_shift.Background = key_pressd_color
@@ -138,9 +105,6 @@ Public Class UserControl1
             tctrl.Foreground = text_released_color
         End If
     End Sub
-
-
-
     Private keybackground As SolidColorBrush
     Public Property key_background() As SolidColorBrush
         Get
@@ -151,19 +115,12 @@ Public Class UserControl1
             NotifyPropertyChanged()
         End Set
     End Property
-
-
     Private keyforeground As SolidColorBrush
-
     Public Sub New()
-
         ' 此调用是设计器所必需的。
         InitializeComponent()
-
         ' 在 InitializeComponent() 调用之后添加任何初始化。
-
     End Sub
-
     Public Property key_foreground() As SolidColorBrush
         Get
             Return keyforeground
@@ -173,7 +130,6 @@ Public Class UserControl1
             NotifyPropertyChanged()
         End Set
     End Property
-
     Dim func1 As Func(Of Integer, Integer) = Function(ByVal i As Integer)
                                                  Return i + 1
                                              End Function
@@ -187,23 +143,17 @@ Public Class UserControl1
     Dim act1 As Action(Of String) = Sub(ByVal name As String)
                                         Console.Write("hello," + name)
                                     End Sub
-
-
     Dim setup_wpf_window As Func(Of IntPtr) = Function()
                                                   Dim Container = New Container()
                                                   Container.Show()
                                                   Dim rr = TryCast(PresentationSource.FromVisual(Container.MyConainer), HwndSource)
-
-
                                                   Dim parent = rr.Handle 'New WindowInteropHelper(Container.MyConainer).Handle
                                                   Return parent
                                               End Function
-
     Dim setup_winform_window As Func(Of IntPtr) = Function()
                                                       Dim Container = New Form1()
                                                       Container.Show()
                                                       Dim parent = Container.Handle
                                                       Return parent
                                                   End Function
-
 End Class
